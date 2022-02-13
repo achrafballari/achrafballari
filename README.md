@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achrafballari
 - 👀 I’m interested in functional consultanting and data
 - 🌱 I’m currently learning data science
-- 📫 my limkedin : achraf ballari
+- 📫 my linkedin : achraf ballari
 
 <!---
 achrafballari/achrafballari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
