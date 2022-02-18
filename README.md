@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @achrafballari
-- 👀 I’m interested in functional consultanting and data
+- 👀 I’m interested in functional consultanting and data science
 - 🌱 I’m currently learning data science
 - 📫 my linkedin : achraf ballari
 
